@@ -1,2 +1,3 @@
 # SpotifySelections
-Music charts —> Direct Spotify links (as .webloc-files)
+
+Because [Spotify](https://spotify.com/de/) really sucks at album playlists, here are some selected music charts as `.webloc`-files.
